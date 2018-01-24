@@ -1,0 +1,26 @@
+body {
+    background-color: peachpuff;
+}
+
+
+.squarebutton {
+    height: 2em;
+    background-color: greenyellow;
+    cursor: pointer;
+    display: block;
+}
+
+.squarebutton:hover {
+    background-color: palevioletred;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    line-height: 75px;
+    text-align: center;
+    background-color: lightseagreen;
+    float: left;
+    color: transparent;
+    margin: 2em;
+}
